@@ -51,4 +51,4 @@ npx mcp-newsapi
 
 ## License
 
-MIT
+Apache-2.0
